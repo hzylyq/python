@@ -1,0 +1,12 @@
+*Map
+	_next_scene
+	_opening_scene
+*Engine
+	_play
+*Scene
+	_enter
+	*Death
+	*Central Corridor
+	*Laster Weapon Armory
+	*The Bridge
+	*Escape Pod
